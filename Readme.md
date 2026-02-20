@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Екатерина Протопопова](https://up.htmlacademy.ru/javascript-individual/2/user/2672193).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Лопатин](https://htmlacademy.ru/profile/denislopatin).
 
 ---
 
